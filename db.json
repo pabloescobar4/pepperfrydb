@@ -1,622 +1,191 @@
 {
-   
-       "furniture" : [
-            {
-                "id": 1,
-                "name": "Esteban 3 Seater Half Leather Sofa in Grey Colour",
-                "img": ["https://ii2.pepperfry.com/media/catalog/product/m/i/494x544/miranda-three-seater-sofa-in-navy-blue-colour-by-woodsworth-miranda-three-seater-sofa-in-navy-blue-c-hkocgr.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/e/s/800x400/esteban-half-leather-three-seater-sofa-in-grey-colour-by-casacraft-esteban-half-leather-three-seater-nqijeg.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/e/s/800x400/esteban-half-leather-three-seater-sofa-in-grey-colour-by-casacraft-esteban-half-leather-three-seater-qoh0xi.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/e/s/800x400/esteban-half-leather-three-seater-sofa-in-grey-colour-by-casacraft-esteban-half-leather-three-seater-ra9orm.jpg"],
-                "madeBy": "CasaCraft by Pepperfry",
-                "offer_price": "1,13,999",
-                "actual_price": "1,84,999",
-                "total_savings": "71,000 (38% Off)",
-                "category":"sofas",
-                "price": 113999,
-                "seater": 3
-            },
-            {
-                "id": 2,
-                "name": "Amelia 2 Seater Sofa in Charcoal Grey Colour",
-                "img": ["https://ii2.pepperfry.com/media/catalog/product/l/a/494x544/ladybug-2-seater-sofa-in-green-colour-by-febonic-ladybug-2-seater-sofa-in-green-colour-by-febonic-uygd2n.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/a/m/800x400/amelia-two-seater-sofa-in-charcoal-grey-colour-by-casacraft-amelia-two-seater-sofa-in-charcoal-grey--3g7ees.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/a/m/800x400/amelia-two-seater-sofa-in-charcoal-grey-colour-by-casacraft-amelia-two-seater-sofa-in-charcoal-grey--qsy3nv.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/a/m/800x400/amelia-two-seater-sofa-in-charcoal-grey-colour-by-casacraft-amelia-two-seater-sofa-in-charcoal-grey--nifmkr.jpg"],
-                "madeBy": "CasaCraft by Pepperfry",
-                "offer_price": "28,999",
-                "actual_price": "46,999",
-                "total_savings": "18,000 (38% Off)",
-                "category":"sofas",
-                "price": 28999,
-                "seater": 2
-            },
-            {
-                "id": 3,
-                "name": "Miranda 3 Seater Sofa in Navy Blue Colour",
-                "img": ["https://ii1.pepperfry.com/media/catalog/product/a/z/494x544/azalea-3-seater-sofa-in-grey-color--amberville-by-pepperfry-azalea-3-seater-sofa-in-grey-color--ambe-qhtflg.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/m/i/800x400/miranda-three-seater-sofa-in-navy-blue-colour-by-woodsworth-miranda-three-seater-sofa-in-navy-blue-c-ecuf5p.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/m/i/800x400/miranda-three-seater-sofa-in-navy-blue-colour-by-woodsworth-miranda-three-seater-sofa-in-navy-blue-c-cjlzqj.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/m/i/800x400/miranda-three-seater-sofa-in-navy-blue-colour-by-woodsworth-miranda-three-seater-sofa-in-navy-blue-c-zd5fj8.jpg"],
-                "madeBy": "Woodsworth by Pepperfry",
-                "offer_price": "49,999",
-                "actual_price": "81,999",
-                "total_savings": "32,000 (39% Off)",
-                "price": 49999,
-                "category":"sofas",
-                "seater": 3
-            },
-            {
-                "id": 4,
-                "name": "Regina 3 Seater Sofa in Mint green Colour",
-                "img": ["https://ii2.pepperfry.com/media/catalog/product/k/a/494x544/kaylee-3-seater-sofa-in-velvet-blush-colour---casacraft-by-pepperfry-kaylee-3-seater-sofa-in-velvet--26nids.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-mint-green-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-mint-gree-efy2xz.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-mint-green-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-mint-gree-ymibk7.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-mint-green-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-mint-gree-lx8jap.jpg"],
-                "madeBy": "CasaCraft by Pepperfry",
-                "offer_price": "53,999",
-                "actual_price": "85,999",
-                "total_savings": "32,000 (37% Off)",
-                "price": 53999,
-                "category":"sofas",
-                "seater": 3
-            },
-            {
-                "id": 5,
-                "name": "Alfredo 2 Seater Sofa in Ash Grey Colour",
-                "img": ["https://ii2.pepperfry.com/media/catalog/product/l/a/494x544/ladybug-two-seater-sofa-in-grey-by-febonic-ladybug-two-seater-sofa-in-grey-by-febonic-sbcvcv.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/a/l/800x400/alfredo-2-seater-sofa-in-ash-grey-colour-by-casacraft-alfredo-2-seater-sofa-in-ash-grey-colour-by-ca-pwhvkf.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/a/l/800x400/alfredo-two-seater-sofa-in-ash-grey-colour-by-casacraft-alfredo-two-seater-sofa-in-ash-grey-colour-b-fsj2xl.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/a/l/800x400/alfredo-two-seater-sofa-in-ash-grey-colour-by-casacraft-alfredo-two-seater-sofa-in-ash-grey-colour-b-ylyik8.jpg"],
-                "madeBy": "CasaCraft by Pepperfry",
-                "offer_price": "26,999",
-                "actual_price": "43,999",
-                "total_savings": "17,000 (39% Off)",
-                "price": 26999,
-                "category":"sofas",
-                "seater": 2
-            },
-            {
-                "id": 6,
-                "name": "Regina 3 Seater Sofa in Rust Colour",
-                "img": ["https://ii1.pepperfry.com/media/catalog/product/a/d/494x544/adyna-3-seater-sofa-in-grey-colour-by-mintwud-adyna-3-seater-sofa-in-grey-colour-by-mintwud-gljgu2.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-rust-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-rust-colour---c-dywmoe.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-rust-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-rust-colour---c-clloab.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-rust-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-rust-colour---c-x4hznb.jpg"],
-                "madeBy": "CasaCraft by Pepperfry",
-                "offer_price": "53,999",
-                "actual_price": "85,999",
-                "total_savings": "32,000 (37% Off)",
-                "price": 53999,
-                "category":"sofas",
-                "seater": 3
-            },
-            {
-                "id": 7,
-                "name": "Kaylee 2 Seater Sofa in Velvet Blue Colour",
-                "img": ["https://ii1.pepperfry.com/media/catalog/product/f/i/494x544/fidel-2-seater-sofa-in-camel-yellow-colour-colour---casacraft-by-pepperfry-fidel-2-seater-sofa-in-ca-je7z0l.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/k/a/800x400/kaylee-2-seater-sofa-in-velvet-blue-colour---casacraft-by-pepperfry-kaylee-2-seater-sofa-in-velvet-b-pyjbkb.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/k/a/800x400/kaylee-2-seater-sofa-in-velvet-blue-colour---casacraft-by-pepperfry-kaylee-2-seater-sofa-in-velvet-b-umxirt.jpg",
-                        "https://ii1.pepperfry.com/media/catalog/product/k/a/800x400/kaylee-2-seater-sofa-in-velvet-blue-colour---casacraft-by-pepperfry-kaylee-2-seater-sofa-in-velvet-b-fyrnew.jpg"],
-                "madeBy": "CasaCraft",
-                "offer_price": "47,999",
-                "actual_price": "85,999",
-                "total_savings": "38,000 (44% Off)",
-                "price": 47999,
-                "category":"sofas",
-                "seater": 2
-            },
-            
-                {
-                    "id": 11,
-                    "name": "Orpha Metal Settee In Grey Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/o/r/1100x1210/orpha-metal-settee-in-grey-colour---bohemiana-by-pepperfry-orpha-metal-settee-in-grey-colour---bohem-mejtxw.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/o/r/1100x1210/orpha-metal-settee-in-grey-colour---bohemiana-by-pepperfry-orpha-metal-settee-in-grey-colour---bohem-ffjad4.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/o/r/1100x1210/orpha-metal-settee-in-grey-colour---bohemiana-by-pepperfry-orpha-metal-settee-in-grey-colour---bohem-0ddwlc.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/o/r/1100x1210/orpha-metal-settee-in-grey-colour---bohemiana-by-pepperfry-orpha-metal-settee-in-grey-colour---bohem-tqsrtm.jpg"],
-                    "madeBy": "Bohemiana by Pepperfry",
-                    "offer_price": "14,999",
-                    "actual_price": "32,999",
-                    "total_savings": "18,000 (55% Off)",
-                    "price": 14999,
-                    "category":"Settee",
-                    "seater": 0
-                },
-                {
-                    "id": 12,
-                    "name": "Rovel Solid Wood Settee In Brown Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/r/o/1100x1210/rovel-solid-wood-settee-in-brown-colour---bohemiana-by-pepperfry-rovel-solid-wood-settee-in-brown-co-stqtzh.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/r/o/1100x1210/rovel-solid-wood-settee-in-brown-colour---bohemiana-by-pepperfry-rovel-solid-wood-settee-in-brown-co-xyq6bc.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/r/o/1100x1210/rovel-solid-wood-settee-in-brown-colour---bohemiana-by-pepperfry-rovel-solid-wood-settee-in-brown-co-ehdmlo.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/r/o/1100x1210/rovel-solid-wood-settee-in-brown-colour---bohemiana-by-pepperfry-rovel-solid-wood-settee-in-brown-co-cmwopi.jpg"],
-                    "madeBy": "Bohemiana by Pepperfry",
-                    "offer_price": "17,499",
-                    "actual_price": "34,999",
-                    "total_savings": "17,500 (50% Off)",
-                    "price": 17499,
-                    "category":"Settee",
-                    "seater": 0
-                },
-                {
-                    "id": 13,
-                    "name": "Ubu Solid Wood Settee in Blue Distress Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/u/b/1100x1210/ubu-solid-wood-settee-in-blue-distress-finish-by-bohemiana-ubu-solid-wood-settee-in-blue-distress-fi-fxjkco.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/u/b/1100x1210/ubu-solid-wood-settee-in-blue-distress-finish-by-bohemiana-ubu-solid-wood-settee-in-blue-distress-fi-cprb7k.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/a/h/1100x1210/ahafo-settee-in-blue-distress-finish-by-bohemiana-ahafo-settee-in-blue-distress-finish-by-bohemiana-bp8iys.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/a/h/1100x1210/ahafo-settee-in-blue-distress-finish-by-bohemiana-ahafo-settee-in-blue-distress-finish-by-bohemiana-ydmbqk.jpg"],
-                    "madeBy": "Bohemiana by Pepperfry",
-                    "offer_price": "29,999",
-                    "actual_price": "34,999 ",
-                    "total_savings": "5,000 (14% Off)",
-                    "price": 29999,
-                    "category":"Settee",
-                    "seater": 0
-                },
-                {
-                    "id": 14,
-                    "name": "Utah Settee in Colonial Maple Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/u/t/1100x1210/utah-bench-in-colonial-maple-color-finish-by-stories-utah-bench-in-colonial-maple-color-finish-by-st-ktahjs.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/u/t/1100x1210/utah-bench-in-colonial-maple-color-finish-by-stories-utah-bench-in-colonial-maple-color-finish-by-st-cdeuwr.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/u/t/1100x1210/utah-bench-in-colonial-maple-color-finish-by-stories-utah-bench-in-colonial-maple-color-finish-by-st-e9ik5y.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/u/t/1100x1210/utah-bench-in-colonial-maple-color-finish-by-stories-utah-bench-in-colonial-maple-color-finish-by-st-zwut7n.jpg"],
-                    "madeBy": "by Stories",
-                    "offer_price": "23,599",
-                    "actual_price": "33,040",
-                    "total_savings": " 9,441 (29% Off)",
-                    "price": 23599,
-                    "seater": 0
-                },
-                {
-                    "id": 15,
-                    "name": "Rafles Settee in Brown Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/r/a/1100x1210/rafles-settee-in-brown-colour-by-stories-rafles-settee-in-brown-colour-by-stories-zfjims.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/r/a/1100x1210/rafles-two-seater-bench-in-brown-colour-by-stories-rafles-two-seater-bench-in-brown-colour-by-storie-s6dy91.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/r/a/1100x1210/rafles-two-seater-bench-in-brown-colour-by-stories-rafles-two-seater-bench-in-brown-colour-by-storie-6zqypw.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/r/a/1100x1210/rafles-two-seater-bench-in-brown-colour-by-stories-rafles-two-seater-bench-in-brown-colour-by-storie-arnvva.jpg"],
-                    "madeBy": "by Stories",
-                    "offer_price": "16,900",
-                    "actual_price": "21,900",
-                    "total_savings": "5,000 (23% Off)",
-                    "category":"Settee",
-                    "price": 16900,
-                    "seater": 0
-                },
-            
-                {
-                    "id": 21,
-                    "name": "Marvel Ergonomic Chair in Black Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/m/a/1100x1210/marvel-ergonomic-chair-in-black-colour-by-durian-marvel-ergonomic-chair-in-black-colour-by-durian-0a4que.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/m/a/1100x1210/marvel-ergonomic-chair-in-black-colour-by-durian-marvel-ergonomic-chair-in-black-colour-by-durian-c0uh6r.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/m/a/1100x1210/marvel-ergonomic-chair-in-black-colour-by-durian-marvel-ergonomic-chair-in-black-colour-by-durian-33016z.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/m/a/1100x1210/marvel-marvel-anbckh.jpg"],
-                    "madeBy": "by Durian",
-                    "offer_price": "9,425",
-                    "actual_price": "14,500",
-                    "total_savings": "5,075 (35% Off)",
-                    "price": 9425,
-                    "category":"Chair",
-                    "seater": 0
-                },
-                {
-                    "id": 22,
-                    "name": "Elegant Modern Gaming Chair In Red Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/e/l/1100x1210/elegant-modern-gaming-chair-in-red-by-adiko-systems-elegant-modern-gaming-chair-in-red-by-adiko-syst-3g3uvv.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/a/d/1100x1210/adiko-elegant-modern-gaming-chair-in-redby-adiko-systems-adiko-elegant-modern-gaming-chair-in-redby--kucjpt.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/a/d/1100x1210/adiko-elegant-modern-gaming-chair-in-redby-adiko-systems-adiko-elegant-modern-gaming-chair-in-redby--q0q0zi.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/e/l/1100x1210/elegant-modern-gaming-chair-in-red-by-systems-elegant-modern-gaming-chair-in-red-by-systems-n0v17s.jpg"],
-                    "madeBy": "by Adiko Systems",
-                    "offer_price": "14,299",
-                    "actual_price": "16,999",
-                    "total_savings": "2,700 (16% Off)",
-                    "price": 14299,
-                    "seater": 0
-                },
-                {
-                    "id": 23,
-                    "name": "MultiColour Patch Iconic Chair",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/m/u/1100x1210/multicolour-patch-iconic-chair-by-star-india-multicolour-patch-iconic-chair-by-star-india-iwybi2.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/p/a/1100x1210/patched-fabric-chari-by-star-india-patched-fabric-chari-by-star-india-banq9y.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/p/a/1100x1210/patched-fabric-chari-by-star-india-patched-fabric-chari-by-star-india-a75fw7.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/p/a/1100x1210/patched-fabric-chari-by-star-india-patched-fabric-chari-by-star-india-qrgjhk.jpg"],
-                    "madeBy": "by Star India",
-                    "offer_price": "7,999",
-                    "actual_price": "10,999",
-                    "total_savings": "3,000 (27% Off)",
-                    "category":"Chair",
-                    "price": 7999,
-                    "seater": 0
-                },
-                {
-                    "id": 24,
-                    "name": "Funk Executive Chair in Black Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/f/u/1100x1210/funk-mid-back-adjustable-executive-chair-in-black-leatherette-by-furniease-funk-mid-back-adjustable--asbkfs.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/f/u/1100x1210/funk-mid-back-adjustable-executive-chair-in-black-leatherette-by-furniease-funk-mid-back-adjustable--gspmzt.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/f/u/1100x1210/funk-mid-back-adjustable-executive-chair-in-black-leatherette-by-furniease-funk-mid-back-adjustable--1nwctf.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/f/u/1100x1210/funk-mid-back-adjustable-executive-chair-in-black-leatherette-by-furniease-funk-mid-back-adjustable--khmp9i.jpg"],
-                    "madeBy": "Furniease",
-                    "offer_price": "6,499",
-                    "actual_price": "11,264",
-                    "total_savings": "4,765 (42% Off)",
-                    "price": 6499,
-                    "category":"Chair",
-                    "seater": 0
-                },
-                {
-                    "id": 25,
-                    "name": "Valentino Armchair in Teak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/v/a/1100x1210/valentino-armchair-valentino-armchair-zpfyzl.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/v/a/1100x1210/valentino-armchair-valentino-armchair-y4no2m.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/v/a/1100x1210/valentino-armchair-valentino-armchair-npujcy.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/v/a/1100x1210/valentino-armchair-valentino-armchair-ektl0t.jpg"],
-                    "madeBy": "by JILDA",
-                    "offer_price": "77,999",
-                    "actual_price": "92,699",
-                    "total_savings": "14,700 (16% Off)",
-                    "price": 77999,
-                    "category":"Armchair",
-                    "seater": 0
-                },
-                {
-                    "id": 26,
-                    "name": "Elton Armchair in Blue Distress Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/e/l/1100x1210/elton-armchair-in-blue-distress-finish-by-bohemiana-elton-armchair-in-blue-distress-finish-by-bohemi-talyqs.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/e/l/1100x1210/elton-armchair-in-blue-distress-finish-by-bohemiana-elton-armchair-in-blue-distress-finish-by-bohemi-2yj4hb.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/d/a/1100x1210/darwin-arm-chair-by-amberville-darwin-arm-chair-by-amberville-cq4cys.jpg",
-                            "https://ii1.pepperfry.com/img/grey.gif"],
-                    "madeBy": "Bohemiana by Pepperfry",
-                    "offer_price": "24,999",
-                    "actual_price": "36,999",
-                    "total_savings": "12,000 (32% Off)",
-                    "price": 24999,
-                    "category":"Armchair",
-                    "seater": 0
-                },
-                {
-                    "id": 27,
-                    "name": "Clifford Solid Wood Armchair in Honey Oak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/c/l/1100x1210/clifford-solid-wood-armchair-in-honey-oak-finish-by-amberville-clifford-solid-wood-armchair-in-honey-0baali.jpg",
-                            "https://ii1.pepperfry.com/media/catalog/product/c/l/1100x1210/clifford-arm-chair-in-honey-oak-finish-by-amberville-clifford-arm-chair-in-honey-oak-finish-by-amber-pas7nk.jpg",
-                            "https://ii1.pepperfry.com/img/grey.gif",
-                            "https://ii1.pepperfry.com/img/grey.gif"],
-                    "madeBy": "Amberville by Pepperfry",
-                    "offer_price": "23,499",
-                    "actual_price": "34,999",
-                    "total_savings": "11,500 (33% Off)",
-                    "price": 23499,
-                    "category":"Armchair",
-                    "seater": 0
-                },
-                {
-                    "id": 40,
-                    "name": "Yatela Solid Wood Coffee Table in Honey Oak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/y/a/1100x1210/yatela-solid-wood-coffee-table-in-honey-oak-finish-by-bohemiana-yatela-solid-wood-coffee-table-in-ho-0ztyqs.jpg","https://ii1.pepperfry.com/media/catalog/product/y/a/1100x1210/yatela-solid-wood-coffee-table-in-honey-oak-finish-by-bohemiana-yatela-solid-wood-coffee-table-in-ho-x1svek.jpg","https://ii1.pepperfry.com/media/catalog/product/y/a/1100x1210/yatela-solid-wood-coffee-table-in-honey-oak-finish-by-bohemiana-yatela-solid-wood-coffee-table-in-ho-x1svek.jpg","https://ii1.pepperfry.com/media/catalog/product/y/a/568x625/yatela-coffee---centre-table-in-colonial-maple-finish-with-mudramark-yatela-coffee---centre-table-in-66hisn.jpg"],
-                    "madeBy": "Bohemiana by Pepperfry",
-                    "offer_price": "₹ 71,999",
-                    "actual_price": "₹ 83,999",
-                    "total_savings": "₹ 12,000 (14% Off)",
-                    "price": 71999,
-                    "category":"Table",
-                    "seater": 0
-                },
-                {
-                    "id": 41,
-                    "name": "Zeno Coffee Table in African oak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/z/e/568x625/zeno-103-coffee-table-in-african-oak-zeno-103-coffee-table-in-african-oak-cnn3xt.jpg","https://ii1.pepperfry.com/media/catalog/product/z/e/1100x1210/zeno-103-coffee-table-in-african-oak-zeno-103-coffee-table-in-african-oak-emsxkz.jpg","https://ii1.pepperfry.com/media/catalog/product/z/e/568x625/zeno-103-coffee-table-in-african-oak-zeno-103-coffee-table-in-african-oak-quk7kt.jpg","https://ii1.pepperfry.com/media/catalog/product/z/e/568x625/zeno-103-coffee-table-in-african-oak-zeno-103-coffee-table-in-african-oak-g2vkty.jpg"],
-                    "madeBy": "by Wood You",
-                    "offer_price": "₹ 3,999",
-                    "actual_price": "₹ 7,875 MRP",
-                    "total_savings": "₹ 3,876 (49% Off)",
-                    "category":"Table",
-                    "price": 3999,
-                    "seater": 0
-                },
-                {
-                    
-                    "id": 42,
-                    "name": "Max Coffee Table in dual Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/m/a/568x625/max-coffee-table-in-dual-colour-by-a-globia-creations-max-coffee-table-in-dual-colour-by-a-globia-cr-du9sfp.jpg","https://ii1.pepperfry.com/media/catalog/product/m/a/568x625/max-coffee-table-in-dual-colour-by-a-globia-creations-max-coffee-table-in-dual-colour-by-a-globia-cr-vxbyio.jpg","https://ii1.pepperfry.com/media/catalog/product/m/a/568x625/max-coffee-table-in-dual-colour-by-a-globia-creations-max-coffee-table-in-dual-colour-by-a-globia-cr-nbhkkq.jpg","https://ii1.pepperfry.com/media/catalog/product/m/a/568x625/max-coffee-table-in-dual-colour-by-a-globia-creations-max-coffee-table-in-dual-colour-by-a-globia-cr-vxbyio.jpg"],
-                    "madeBy": "by A GLOBIA CREATIONS",
-                    "offer_price": "₹ 5,157",
-                    "actual_price": "₹ 7,500 MRP",
-                    "total_savings": "₹ 2,343 (31% Off)",
-                    "category":"Table",
-                    "price": 5157,
-                    "seater": 0
-                },
-                {
-                    "id": 43,
-                    "name": "Evan Portable Table in Black Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/e/v/568x625/evan-portable-table-in-black-colour-by-gizga-essentials-evan-portable-table-in-black-colour-by-gizga-hc9urh.jpg","https://ii1.pepperfry.com/media/catalog/product/e/v/568x625/evan-portable-table-in-black-colour-by-gizga-essentials-evan-portable-table-in-black-colour-by-gizga-56qhuv.jpg","https://ii1.pepperfry.com/media/catalog/product/e/v/568x625/evan-portable-table-in-black-colour-by-gizga-essentials-evan-portable-table-in-black-colour-by-gizga-09bvw7.jpg","https://ii1.pepperfry.com/media/catalog/product/e/v/568x625/evan-portable-table-in-black-colour-by-gizga-essentials-evan-portable-table-in-black-colour-by-gizga-gdfocn.jpg"],
-                    "madeBy": "by Gizga Essentials",
-                    "offer_price": "₹ 1,849",
-                    "actual_price": "₹ 1,999 MRP",
-                    "total_savings": " ₹ 150 (8% Off)",
-                    "category":"Table",
-                    "price": 1849
-                },
-                {
-                    "id": 44,
-                    "name": "Dia Outdoor Coffee table in Black Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/o/u/568x625/outdoor-glass-top-coffee-table-in-black-colourby-ventura-outdoor-glass-top-coffee-table-in-black-col-ojav19.jpg","https://ii1.pepperfry.com/media/catalog/product/o/u/568x625/outdoor-glass-top-coffee-table-in-black-colourby-ventura-outdoor-glass-top-coffee-table-in-black-col-ywf21v.jpg","https://ii1.pepperfry.com/media/catalog/product/o/u/568x625/outdoor-glass-top-coffee-table-in-black-colourby-ventura-outdoor-glass-top-coffee-table-in-black-col-iv9677.jpg","https://ii1.pepperfry.com/media/catalog/product/o/u/568x625/outdoor-glass-top-coffee-table-in-black-colourby-ventura-outdoor-glass-top-coffee-table-in-black-col-pyasbo.jpg"],
-                    "madeBy": "by Ventura",
-                    "offer_price": "No offers",
-                    "actual_price": "₹ 10,379",
-                    "total_savings": "Shopping Spreedom Sale",
-                    "price": 10379,
-                    "category":"Table",
-                    "seater": 0
-                },
-                {
-                    "id": 45,
-                    "name": "Louis Solid Wood Dressing Table in Provincial Teak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/l/o/568x625/louis-solid-wood-dressing-table-in-provincial-teak-finish-by-amberville-louis-solid-wood-dressing-ta-b22n4a.jpg","https://ii1.pepperfry.com/media/catalog/product/l/o/568x625/louis-solid-wood-dressing-table-in-provincial-teak-finish-by-amberville-louis-solid-wood-dressing-ta-vichrg.jpg","https://ii1.pepperfry.com/media/catalog/product/l/o/568x625/louis-solid-wood-dressing-table-in-provincial-teak-finish-by-amberville-louis-solid-wood-dressing-ta-hhj6op.jpg","https://ii1.pepperfry.com/media/catalog/product/l/o/568x625/louis-solid-wood-dressing-table-in-provincial-teak-finish-by-amberville-louis-solid-wood-dressing-ta-1vpy2j.jpg"],
-                    "madeBy": "Amberville by Pepperfry",
-                    "offer_price": "₹ 29,999",
-                    "actual_price": "₹ 44,999 MRP",
-                    "total_savings": "₹ 15,000 (33% Off)",
-                    "price": 29999,
-                    "category":"Table"
-                },
-                {
-                    "id": 46,
-                    "name": "Kosmo Premium Dressing Unit in Natural Wenge Woodpore Melamine Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/k/o/568x625/kosmo-premium-dressing-unit-in-natural-wenge-woodpore-melamine-finish-by-spacewood-kosmo-premium-dre-ju8yv8.jpg","https://ii1.pepperfry.com/media/catalog/product/k/o/568x625/kosmo-premium-dressing-table-in-natural-wenge-woodpore-melamine-finish-by-spacewood-kosmo-premium-dr-ace2xq.jpg","https://ii1.pepperfry.com/media/catalog/product/k/o/568x625/kosmo-premium-dressing-table-in-natural-wenge-woodpore-melamine-finish-by-spacewood-kosmo-premium-dr-xycjen.jpg","https://ii1.pepperfry.com/media/catalog/product/k/o/568x625/kosmo-premium-dressing-table-in-natural-wenge-woodpore-melamine-finish-by-spacewood-kosmo-premium-dr-r47lu3.jpg"],
-                    "madeBy": "by Spacewood",
-                    "offer_price": "₹ 9,499",
-                    "actual_price": "₹ 10,131 MRP",
-                    "total_savings": "₹ 632 (6% Off)",
-                    "category":"Table",
-                    "price": 9499
-                },
-            
-    
-           
-                {
-                    "id": 47,
-                    "name": "Yua Shoe Rack in Black Finish- Mintwud",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/y/u/568x625/yua-shoe-rack---mintwud-by-pepperfry-yua-shoe-rack---mintwud-by-pepperfry-rto1d7.jpg","https://ii1.pepperfry.com/media/catalog/product/y/u/568x625/yua-shoe-rack---mintwud-by-pepperfry-yua-shoe-rack---mintwud-by-pepperfry-oouvbk.jpg","https://ii1.pepperfry.com/media/catalog/product/y/u/568x625/yua-shoe-rack---mintwud-by-pepperfry-yua-shoe-rack---mintwud-by-pepperfry-afcq3i.jpg","https://ii1.pepperfry.com/media/catalog/product/y/u/568x625/yua-shoe-rack---mintwud-by-pepperfry-yua-shoe-rack---mintwud-by-pepperfry-p5bsae.jpg"],
-                    "madeBy": "Mintwud by Pepperfry",
-                    "offer_price": "₹ 11,499",
-                    "actual_price": "₹ 35,399 MRP",
-                    "total_savings": "₹ 23,900 (68% Off)",
-                    "price": 11499,
-                    "seater": 0
-                },
-                {
-                    "id": 48,
-                    "name": "Segur Solid Wood Open TV Shelf in Provincial Teak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/s/e/568x625/segur-solid-wood-open-tv-unit-in-provincial-teak-finish-by-woodsworth-segur-solid-wood-open-tv-unit--apzh7e.jpg","https://ii1.pepperfry.com/media/catalog/product/s/e/568x625/segur-solid-wood-open-tv-unit-in-provincial-teak-finish-by-woodsworth-segur-solid-wood-open-tv-unit--c5h6h0.jpg","https://ii1.pepperfry.com/media/catalog/product/s/e/568x625/segur-solid-wood-open-tv-unit-in-provincial-teak-finish-by-woodsworth-segur-solid-wood-open-tv-unit--lpjvei.jpg","https://ii1.pepperfry.com/media/catalog/product/s/e/568x625/segur-solid-wood-open-tv-shelf-in-provincial-teak-finish-by-woodsworth-segur-solid-wood-open-tv-shel-vllv6v.jpg"],
-                    "madeBy": "Woodsworth by Pepperfry",
-                    "offer_price": "₹ 28,999",
-                    "actual_price": "₹ 48,999 MRP",
-                    "total_savings": "₹ 20,000 (41% Off)",
-                    "price": 28900
-                },
-                {
-                    "id": 49,
-                    "name": "Anne Solid Wood Sideboard in Warm Chestnut Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/a/n/568x625/anne-solid-wood-sideboard-in-warm-chestnut-finish-by-amberville-anne-solid-wood-sideboard-in-warm-ch-6i7a10.jpg","https://ii1.pepperfry.com/media/catalog/product/a/n/1100x1210/anne-solid-wood-cabinet-with-three-doors-in-warm-chestnut-finish-by-amberville-anne-solid-wood-cabin-aykdjj.jpg","https://ii1.pepperfry.com/media/catalog/product/a/n/568x625/anne-solid-wood-cabinet-with-three-doors-in-warm-chestnut-finish-by-amberville-anne-solid-wood-cabin-e43xww.jpg","https://ii1.pepperfry.com/media/catalog/product/a/n/568x625/anne-solid-wood-cabinet-with-three-doors-in-warm-chestnut-finish-by-amberville-anne-solid-wood-cabin-pmboft.jpg"],
-                    "madeBy": "Amberville by Pepperfry",
-                    "offer_price": "₹ 39,999",
-                    "actual_price": "₹ 66,999 MRP",
-                    "total_savings": "₹ 27,000 (40% Off)",
-                    "price": 39999
-                },
-                {
-                    "id": 50,
-                    "name": "Homa Collapsible Wardrobe in White Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/h/o/568x625/homa-collapsible-wardrobe-in-white-colour-by-diy-furniture-homa-collapsible-wardrobe-in-white-colour-jsihik.jpg","https://ii1.pepperfry.com/media/catalog/product/h/o/568x625/homa-collapsible-wardrobe-in-white-colour-by-diy-furniture-homa-collapsible-wardrobe-in-white-colour-xxaknm.jpg","https://ii1.pepperfry.com/media/catalog/product/h/o/568x625/homa-collapsible-wardrobe-in-white-colour-by-diy-furniture-homa-collapsible-wardrobe-in-white-colour-hg7ffu.jpg","https://ii1.pepperfry.com/media/catalog/product/h/o/568x625/homa-collapsible-wardrobe-in-white-colour-by-diy-furniture-homa-collapsible-wardrobe-in-white-colour-yv6ojg.jpg"],
-                    "madeBy": "by DIY Furniture",
-                    "offer_price": "₹ 6,099",
-                    "actual_price": "₹ 9,000 MRP",
-                    "total_savings": "₹ 2,901 (32% Off)",
-                    "price": 6099
-                },
-                {
-                    "id":51,
-                    "name": "Akon Solid Wood Trunk in Distress Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/a/k/1100x1210/akon-solid-wood-trunk-in-distress-finish-by-bohemiana-akon-solid-wood-trunk-in-distress-finish-by-bo-gt36cy.jpg","https://ii1.pepperfry.com/media/catalog/product/j/a/568x625/jacobina-coffee-table-cum-trunk-box-by-bohemiana-jacobina-coffee-table-cum-trunk-box-by-bohemiana-uiacqm.jpg","https://ii1.pepperfry.com/media/catalog/product/j/a/568x625/jacobina-coffee-table-cum-trunk-box-by-bohemiana-jacobina-coffee-table-cum-trunk-box-by-bohemiana-jhwfkg.jpg","https://ii1.pepperfry.com/media/catalog/product/j/a/568x625/jacobina-coffee-table-cum-trunk-box-by-bohemiana-jacobina-coffee-table-cum-trunk-box-by-bohemiana-74siv2.jpg"],
-                    "madeBy": "Bohemiana by Pepperfry",
-                    "offer_price": "₹ 25,499",
-                    "actual_price": "₹ 35,999 MRP",
-                    "total_savings": "₹ 10,500 (29% Off)",
-                    "price": 25499
-                },
-                {
-                    "id": 52,
-                    "name": "Addison Solid Wood Book Shelf In Rustic Teak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/a/d/568x625/addison-solid-wood-book-shelf-in-rustic-teak-finish-by-woodsworth-addison-solid-wood-book-shelf-in-r-yijvkl.jpg","https://ii1.pepperfry.com/media/catalog/product/a/d/568x625/addison-solid-wood-book-shelf-cum-display-unit-in-rustic-teak-finish-by-woodsworth-addison-solid-woo-agfeke.jpg","https://ii1.pepperfry.com/media/catalog/product/a/d/568x625/addison-solid-wood-book-shelf-cum-display-unit-in-rustic-teak-finish-by-woodsworth-addison-solid-woo-tvyrxm.jpg","https://ii1.pepperfry.com/media/catalog/product/a/d/568x625/addison-solid-wood-book-shelf-cum-display-unit-in-rustic-teak-finish-by-woodsworth-addison-solid-woo-eip6ze.jpg"],
-                    "madeBy": "Woodsworth by Pepperfry",
-                    "offer_price": "₹ 49,999",
-                    "actual_price": "₹ 70,999 MRP",
-                    "total_savings": "₹ 21,000 (30% Off)",
-                    "price": 49999
-                },
-                {
-                    "id": 53,
-                    "name": "Alfa Cabinet in Brown & Beige Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alfa-cabinet-brown---beige-colour-by-prima-alfa-cabinet-brown---beige-colour-by-prima-0gzkpu.jpg","https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alfa-cabinet-brown---beige-colour-by-prima-alfa-cabinet-brown---beige-colour-by-prima-o57mv2.jpg","https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alfa-cabinet-brown---beige-colour-by-prima-alfa-cabinet-brown---beige-colour-by-prima-45ypbw.jpg","https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alfa-cabinet-brown---beige-colour-by-prima-alfa-cabinet-brown---beige-colour-by-prima-uw5tqy.jpg"],
-                    "madeBy": "by Prima",
-                    "offer_price": "₹ 3,489",
-                    "actual_price": "₹ 3,515 MRP",
-                    "total_savings": "₹ 26 (1% Off)",
-                    "price": 3489
-                },
-                {
-                    "id": 54,
-                    "name": "Acropolis Solid Wood 4 Seater Dining Set in Rustic Teak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/a/c/1100x1210/acropolis-solid-wood-four-seater-dining-set-in-rustic-teak-finish-by-woodsworth-acropolis-solid-wood-s4znww.jpg","https://ii1.pepperfry.com/media/catalog/product/a/c/568x625/acropolis-solid-wood-four-seater-dining-set-in-rustic-teak-finish-by-woodsworth-acropolis-solid-wood-ki4xzx.jpg","https://ii1.pepperfry.com/media/catalog/product/a/c/568x625/acropolis-solid-wood-four-seater-dining-set-in-rustic-teak-finish-by-woodsworth-acropolis-solid-wood-mvma3t.jpg","https://ii1.pepperfry.com/media/catalog/product/a/c/568x625/acropolis-solid-wood-four-seater-dining-set-in-rustic-teak-finish-by-woodsworth-acropolis-solid-wood-njbqmz.jpg"],
-                    "madeBy": "Woodsworth by Pepperfry",
-                    "offer_price": "₹ 36,999",
-                    "actual_price": "₹ 71,999 MRP",
-                    "total_savings": "₹ 35,000 (49% Off)",
-                    "price": 36999,
-                    "seater": 4
-                },
-                {
-                    "id": 55,
-                    "name": "Hachiro 4 Seater Dining Set in Walnut & Steel Grey Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/h/a/568x625/hachiro-4-seater-dining-set-in-walnut---steel-grey-finish-by-casacraft-hachiro-4-seater-dining-set-i-tqgswb.jpg","https://ii1.pepperfry.com/media/catalog/product/h/a/568x625/hachiro-4-seater-dining-set-in-walnut---steel-grey-finish-by-casacraft-hachiro-4-seater-dining-set-i-lbedo2.jpg","https://ii1.pepperfry.com/media/catalog/product/h/a/568x625/hachiro-four-seater-dining-set-in-walnut---steel-grey-finish-by-casacraft-hachiro-four-seater-dining-hgmphb.jpg","https://ii1.pepperfry.com/media/catalog/product/h/a/568x625/hachiro-4-seater-dining-set-in-walnut---steel-grey-finish-by-casacraft-hachiro-4-seater-dining-set-i-ytecry.jpg"],
-                    "madeBy": "CasaCraft by Pepperfry",
-                    "offer_price": "₹ 43,999",
-                    "actual_price": "₹ 85,999 MRP",
-                    "total_savings": "₹ 42,000 (49% Off)",
-                    "price": 43999,
-                    "seater": 4
-                },
-                {
-                    "id": 56,
-                    "name": "Woodway Solid Wood Bar Table Set in Provincial Teak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/w/o/568x625/woodway-solid-wood-bar-table-set-in-provincial-teak-finish-by-woodsworth-woodway-solid-wood-bar-tabl-sagufs.jpg","https://ii1.pepperfry.com/media/catalog/product/w/o/568x625/woodway-solid-wood-four-seater-dining-cum-bar-set-in-provincial-teak-finish-by-woodsworth-woodway-so-ynlhkb.jpg","https://ii1.pepperfry.com/media/catalog/product/w/o/568x625/woodway-solid-wood-four-seater-dining-cum-bar-set-in-provincial-teak-finish-by-woodsworth-woodway-so-yegfg7.jpg","https://ii1.pepperfry.com/media/catalog/product/w/o/1100x1210/woodway-high-four-seater-solid-wood-dining-cum-bar-set-in-provincial-teak-finish-by-woodsworth-woodw-1lllut.jpg"],
-                    "madeBy": "Woodsworth by Pepperfry",
-                    "offer_price": "₹ 42,999",
-                    "actual_price": "₹ 74,999 MRP",
-                    "total_savings": "₹ 32,000 (43% Off)",
-                    "price": 42999,
-                    "seater": 4
-                },
-                {
-                    "id": 57,
-                    "name": "Avian Solid Wood Bar Trolley in Honey Oak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/a/v/568x625/avian-solid-wood-bar-trolley-in-honey-oak-finish-by-woodsworth-avian-solid-wood-bar-trolley-in-honey-yfatzc.jpg","https://ii1.pepperfry.com/media/catalog/product/a/v/568x625/avian-solid-wood-bar-trolley-in-honey-oak-finish-by-woodsworth-avian-solid-wood-bar-trolley-in-honey-hfudzj.jpg","https://ii1.pepperfry.com/media/catalog/product/a/v/568x625/avian-solid-wood-bar-trolley-in-honey-oak-finish-by-woodsworth-avian-solid-wood-bar-trolley-in-honey-idwenp.jpg","https://ii1.pepperfry.com/media/catalog/product/a/v/568x625/avian-solid-wood-bar-trolley-in-honey-oak-finish-by-woodsworth-avian-solid-wood-bar-trolley-in-honey-td4uwo.jpg"],
-                    "madeBy": "Woodsworth by Pepperfry",
-                    "offer_price": "₹ 15,999",
-                    "actual_price": "₹ 27,999 MRP",
-                    "total_savings": "₹ 12,000 (43% Off)",
-                    "price": 15999
-                },
-                {
-                    "id": 58,
-                    "name": "Bessemer Solid Wood Wine Rack in Distress Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/b/e/568x625/bessemer-solid-wood-wine-rack-in-distress-finish-by-bohemiana-bessemer-solid-wood-wine-rack-in-distr-iyn4am.jpg","https://ii1.pepperfry.com/media/catalog/product/b/e/568x625/bessemer-coffee-table-in-distress-finish-by-bohemiana-bessemer-coffee-table-in-distress-finish-by-bo-lrmvnm.jpg","https://ii1.pepperfry.com/media/catalog/product/b/e/568x625/bessemer-coffee-table-in-distress-finish-by-bohemiana-bessemer-coffee-table-in-distress-finish-by-bo-we4hf5.jpg","https://ii1.pepperfry.com/media/catalog/product/b/e/568x625/bessemer-coffee-table-in-distress-finish-by-bohemiana-bessemer-coffee-table-in-distress-finish-by-bo-qvjwa2.jpg"],
-                    "madeBy": "Bohemiana by Pepperfry",
-                    "offer_price": "₹ 30,999",
-                    "actual_price": "₹ 43,999 MRP",
-                    "total_savings": "₹ 13,000 (30% Off)",
-                    "price": 30999
-                },
-                {
-                    "id": 59,
-                    "name": "Dion Bar Unit in Grey Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/d/i/568x625/dion-bar-unit-in-grey-colour-by-globally-indian-dion-bar-unit-in-grey-colour-by-globally-indian-yv0n4b.jpg","https://ii1.pepperfry.com/media/catalog/product/d/i/568x625/dion-bar-unit-in-grey-colour-by-globally-indian-dion-bar-unit-in-grey-colour-by-globally-indian-u6puqi.jpg","https://ii1.pepperfry.com/media/catalog/product/d/i/568x625/dion-bar-unit-in-grey-colour-by-globally-indian-dion-bar-unit-in-grey-colour-by-globally-indian-gbca5u.jpg","https://ii1.pepperfry.com/media/catalog/product/d/i/568x625/dion-bar-unit-in-grey-colour-by-globally-indian-dion-bar-unit-in-grey-colour-by-globally-indian-pfk0vn.jpg"],
-                    "madeBy": "by Globally Indian",
-                    "offer_price": "₹ 35,999",
-                    "actual_price": "₹ 41,999 MRP",
-                    "total_savings": "₹ 6,000 (14% Off)",
-                    "price": 35999
-                },
-                {
-                    "id": 60,
-                    "name": "Coleman Solid Wood Bar Trolley",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/c/o/568x625/coleman-solid-wood-bar-trolley-by-bohemiana-coleman-solid-wood-bar-trolley-by-bohemiana-wfq1ir.jpg","https://ii1.pepperfry.com/media/catalog/product/c/o/568x625/coleman-bar-trolley-by-bohemiana-coleman-bar-trolley-by-bohemiana-roc2jo.jpg","https://ii1.pepperfry.com/media/catalog/product/c/o/568x625/coleman-bar-trolley-by-bohemiana-coleman-bar-trolley-by-bohemiana-65e4yz.jpg","https://ii1.pepperfry.com/media/catalog/product/c/o/568x625/coleman-bar-trolley-by-bohemiana-coleman-bar-trolley-by-bohemiana-mgccpe.jpg"],
-                    "madeBy": "Bohemiana by Pepperfry",
-                    "offer_price": "₹ 30,999",
-                    "actual_price": "₹ 48,999 MRP",
-                    "total_savings": "₹ 18,000 (37% Off)",
-                    "price": 30999
-                },
-                {
-                    "id": 61,
-                    "name": "Airavana Solid Wood Single Bed in Provincial Teak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/a/i/1100x1210/airavana-solid-wood-single-bed-in-provincial-teak-finish-by-mudramark-airavana-solid-wood-single-bed-yo14o8.jpg","https://ii1.pepperfry.com/media/catalog/product/a/i/568x625/airavana-solid-wood-single-bed-in-provincial-teak-finish-by-mudramark-airavana-solid-wood-single-bed-wyhx48.jpg","https://ii1.pepperfry.com/media/catalog/product/a/i/568x625/airavana-solid-wood-single-bed-in-provincial-teak-finish-by-mudramark-airavana-solid-wood-single-bed-j6dpxe.jpg","https://ii1.pepperfry.com/media/catalog/product/a/i/568x625/airavana-solid-wood-single-bed-in-provincial-teak-finish-by-mudramark-airavana-solid-wood-single-bed-pxjbfq.jpg"],
-                    "madeBy": "Mudramark by Pepperfry",
-                    "offer_price": "₹ 32,999",
-                    "actual_price": "₹ 49,999 MRP",
-                    "total_savings": "₹ 17,000 (34% Off)",
-                    "price": 32999,
-                    "seater": 0
-                },
-                {
-                    "id": 62,
-                    "name": "Glorious Queen Size Upholstered Bed in Blue Colour",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/g/l/568x625/glorious-queen-size-upholstered-bed-in-blue-colour-by-dreamzz-furniture-glorious-queen-size-upholste-lpzfyb.jpg","https://ii1.pepperfry.com/media/catalog/product/g/l/568x625/glorious-queen-size-upholstered-bed-in-blue-colour-by-dreamzz-furniture-glorious-queen-size-upholste-eckibj.jpg","https://ii1.pepperfry.com/media/catalog/product/g/l/568x625/glorious-queen-size-bed-in-blue-colour-by-dreamzz-furniture-glorious-queen-size-bed-in-blue-colour-b-ajywui.jpg","https://ii1.pepperfry.com/media/catalog/product/g/l/568x625/glorious-queen-size-bed-in-blue-colour-by-dreamzz-furniture-glorious-queen-size-bed-in-blue-colour-b-bxz3eb.jpg"],
-                    "madeBy": "by Dreamzz Furniture",
-                    "offer_price": "₹ 38,999",
-                    "actual_price": "₹ 63,999 MRP",
-                    "total_savings": "₹ 25,000 (39% Off)",
-                    "price": 38999,
-                    "seater": 0
-                },
-                {
-                    "id": 63,
-                    "name": "Alara Solid Wood Poster Bed in Honey Oak Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alara-solid-wood-poster-bed-in-honey-oak-finish-by-mudramark-alara-solid-wood-poster-bed-in-honey-oa-vmao6y.jpg","https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alara-solid-wood-king-size-poster-bed-in-honey-oak-finish-by-mudramark-alara-solid-wood-king-size-po-odvwla.jpg","https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alara-solid-wood-king-size-poster-bed-in-honey-oak-finish-by-mudramark-alara-solid-wood-king-size-po-bwtrkx.jpg","https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alara-solid-wood-king-size-poster-bed-in-honey-oak-finish-by-mudramark-alara-solid-wood-king-size-po-aqhhfe.jpg"],
-                    "madeBy": "Mudramark by Pepperfry",
-                    "offer_price": "₹ 76,999",
-                    "actual_price": "₹ 1,15,999 MRP",
-                    "total_savings": "₹ 39,000 (34% Off)",
-                    "price": 76999,
-                    "seater": 0
-                },
-                {
-                    "id": 64,
-                    "name": "Hush Orthopedic 8 Inches PU Foam King Size Mattress",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/h/u/568x625/hush-orthopedic-8-inches-pu-foam-king-size-mattress-hush-orthopedic-8-inches-pu-foam-king-size-mattr-corcwm.jpg","https://ii1.pepperfry.com/media/catalog/product/h/u/568x625/hush-orthopedic-8-inches-pu-foam-king-size-mattress-hush-orthopedic-8-inches-pu-foam-king-size-mattr-rhctcn.jpg","https://ii1.pepperfry.com/media/catalog/product/h/u/568x625/hush-orthopedic-8-inches-pu-foam-king-size-mattress-hush-orthopedic-8-inches-pu-foam-king-size-mattr-87lgny.jpg","https://ii1.pepperfry.com/media/catalog/product/h/u/568x625/hush-orthopedic-8-inches-pu-foam-king-size-mattress-hush-orthopedic-8-inches-pu-foam-king-size-mattr-ui9dmc.jpg"],
-                    "madeBy": "by Hush",
-                    "offer_price": "₹ 16,274",
-                    "actual_price": "₹ 21,699 MRP",
-                    "total_savings": "₹ 5,425 (25% Off)",
-                    "price": 16274
-                },
-                {
-                    "id": 65,
-                    "name": "Edison Folding Bed with Mattress in Black Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/e/d/568x625/edison-folding-bed-with-mattress-in-black-finish-by-aura-edison-folding-bed-with-mattress-in-black-f-jg1vnn.jpg","https://ii1.pepperfry.com/media/catalog/product/e/d/568x625/edison-folding-bed-in-black---maroon-colour-by-aura-edison-folding-bed-in-black---maroon-colour-by-a-yb8odr.jpg","https://ii1.pepperfry.com/media/catalog/product/e/d/568x625/edison-folding-bed-in-black---maroon-colour-by-aura-edison-folding-bed-in-black---maroon-colour-by-a-rdcdil.jpg","https://ii1.pepperfry.com/media/catalog/product/e/d/568x625/edison-folding-bed-in-black---maroon-colour-by-aura-edison-folding-bed-in-black---maroon-colour-by-a-3gpq99.jpg"],
-                    "madeBy": "by AURA",
-                    "offer_price": "₹ 19,499",
-                    "actual_price": "₹ 26,489 MRP",
-                    "total_savings": "₹ 6,990 (26% Off)",
-                    "price": 19499,
-                    "seater": 0
-        
-                },
-                {
-                    "id": 66,
-                    "name": "McZoe Trundle Bed with Headboard Storage in Satin White & Sea Green Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/m/c/568x625/mczoe-trundle-bed-with-headboard-storage-in-satin-white---sea-green-finish-by-mollycoddle-mczoe-trun-kvofaz.jpg","https://ii1.pepperfry.com/media/catalog/product/m/c/568x625/mczoe-trundle-bed-with-storage-headboard-in-satin-white---green-by-mollycoddle-mczoe-trundle-bed-wit-6c6vcn.jpg","https://ii1.pepperfry.com/media/catalog/product/m/c/568x625/mczoe-trundle-bed-with-headboard-storage-in-green---white-satin-finish-by-mollycoddle-mczoe-trundle--lgv2h1.jpg","https://ii1.pepperfry.com/media/catalog/product/m/c/568x625/mczoe-trundle-bed-with-storage-headboard-in-satin-white---green-by-mollycoddle-mczoe-trundle-bed-wit-sap8jr.jpg"],
-                    "madeBy": "by Mollycoddle",
-                    "offer_price": "₹ 18,999",
-                    "actual_price": "₹ 37,497 MRP",
-                    "total_savings": "₹ 18,498 (49% Off)",
-                    "price": 18999,
-                    "seater": 0
-                
-                },
-                {
-                    "id": 67,
-                    "name": "Alexander Bunk Bed with Drawer Storage in Wenge Finish",
-                    "img": ["https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alexander-bunk-bed-with-drawer-storage-in-wenge-finish-by-casacraft-alexander-bunk-bed-with-drawer-s-gxl4ud.jpg","https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alexander-bunk-bed-with-drawer-storage-in-wenge-finish-by-casacraft-alexander-bunk-bed-with-drawer-s-e2p07f.jpg","https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alexander-bunk-bed-with-drawer-storage-in-wenge-finish-by-casacraft-alexander-bunk-bed-with-drawer-s-cqqd03.jpg","https://ii1.pepperfry.com/media/catalog/product/a/l/568x625/alexander-bunk-bed-with-drawer-storage-in-wenge-finish-by-casacraft-alexander-bunk-bed-with-drawer-s-g8pmjv.jpg"],
-                    "madeBy": "CasaCraft by Pepperfry",
-                    "offer_price": "₹ 26,999",
-                    "actual_price": "₹ 82,999 MRP",
-                    "total_savings": "₹ 56,000 (67% Off)",
-                    "price": 26999,
-                    "seater": 0
-                
-                }
-            
-        ]
+  "furniture": [
+    {
+      "id": 1,
+      "name": "Esteban 3 Seater Half Leather Sofa in Grey Colour",
+      "img": [
+        "https://ii2.pepperfry.com/media/catalog/product/m/i/494x544/miranda-three-seater-sofa-in-navy-blue-colour-by-woodsworth-miranda-three-seater-sofa-in-navy-blue-c-hkocgr.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/e/s/800x400/esteban-half-leather-three-seater-sofa-in-grey-colour-by-casacraft-esteban-half-leather-three-seater-nqijeg.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/e/s/800x400/esteban-half-leather-three-seater-sofa-in-grey-colour-by-casacraft-esteban-half-leather-three-seater-qoh0xi.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/e/s/800x400/esteban-half-leather-three-seater-sofa-in-grey-colour-by-casacraft-esteban-half-leather-three-seater-ra9orm.jpg"
+      ],
+      "madeBy": "CasaCraft by Pepperfry",
+      "offer_price": "1,13,999",
+      "actual_price": "1,84,999",
+      "total_savings": "71,000 (38% Off)",
+      "category": "sofas",
+      "price": 113999,
+      "seater": 3
+    },
+    {
+      "id": 2,
+      "name": "Amelia 2 Seater Sofa in Charcoal Grey Colour",
+      "img": [
+        "https://ii2.pepperfry.com/media/catalog/product/l/a/494x544/ladybug-2-seater-sofa-in-green-colour-by-febonic-ladybug-2-seater-sofa-in-green-colour-by-febonic-uygd2n.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/a/m/800x400/amelia-two-seater-sofa-in-charcoal-grey-colour-by-casacraft-amelia-two-seater-sofa-in-charcoal-grey--3g7ees.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/a/m/800x400/amelia-two-seater-sofa-in-charcoal-grey-colour-by-casacraft-amelia-two-seater-sofa-in-charcoal-grey--qsy3nv.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/a/m/800x400/amelia-two-seater-sofa-in-charcoal-grey-colour-by-casacraft-amelia-two-seater-sofa-in-charcoal-grey--nifmkr.jpg"
+      ],
+      "madeBy": "CasaCraft by Pepperfry",
+      "offer_price": "28,999",
+      "actual_price": "46,999",
+      "total_savings": "18,000 (38% Off)",
+      "category": "sofas",
+      "price": 28999,
+      "seater": 2
+    },
+    {
+      "id": 3,
+      "name": "Miranda 3 Seater Sofa in Navy Blue Colour",
+      "img": [
+        "https://ii1.pepperfry.com/media/catalog/product/a/z/494x544/azalea-3-seater-sofa-in-grey-color--amberville-by-pepperfry-azalea-3-seater-sofa-in-grey-color--ambe-qhtflg.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/m/i/800x400/miranda-three-seater-sofa-in-navy-blue-colour-by-woodsworth-miranda-three-seater-sofa-in-navy-blue-c-ecuf5p.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/m/i/800x400/miranda-three-seater-sofa-in-navy-blue-colour-by-woodsworth-miranda-three-seater-sofa-in-navy-blue-c-cjlzqj.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/m/i/800x400/miranda-three-seater-sofa-in-navy-blue-colour-by-woodsworth-miranda-three-seater-sofa-in-navy-blue-c-zd5fj8.jpg"
+      ],
+      "madeBy": "Woodsworth by Pepperfry",
+      "offer_price": "49,999",
+      "actual_price": "81,999",
+      "total_savings": "32,000 (39% Off)",
+      "price": 49999,
+      "category": "sofas",
+      "seater": 3
+    },
+    {
+      "id": 4,
+      "name": "Regina 3 Seater Sofa in Mint green Colour",
+      "img": [
+        "https://ii2.pepperfry.com/media/catalog/product/k/a/494x544/kaylee-3-seater-sofa-in-velvet-blush-colour---casacraft-by-pepperfry-kaylee-3-seater-sofa-in-velvet--26nids.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-mint-green-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-mint-gree-efy2xz.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-mint-green-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-mint-gree-ymibk7.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-mint-green-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-mint-gree-lx8jap.jpg"
+      ],
+      "madeBy": "CasaCraft by Pepperfry",
+      "offer_price": "53,999",
+      "actual_price": "85,999",
+      "total_savings": "32,000 (37% Off)",
+      "price": 53999,
+      "category": "sofas",
+      "seater": 3
+    },
+    {
+      "id": 5,
+      "name": "Alfredo 2 Seater Sofa in Ash Grey Colour",
+      "img": [
+        "https://ii2.pepperfry.com/media/catalog/product/l/a/494x544/ladybug-two-seater-sofa-in-grey-by-febonic-ladybug-two-seater-sofa-in-grey-by-febonic-sbcvcv.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/a/l/800x400/alfredo-2-seater-sofa-in-ash-grey-colour-by-casacraft-alfredo-2-seater-sofa-in-ash-grey-colour-by-ca-pwhvkf.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/a/l/800x400/alfredo-two-seater-sofa-in-ash-grey-colour-by-casacraft-alfredo-two-seater-sofa-in-ash-grey-colour-b-fsj2xl.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/a/l/800x400/alfredo-two-seater-sofa-in-ash-grey-colour-by-casacraft-alfredo-two-seater-sofa-in-ash-grey-colour-b-ylyik8.jpg"
+      ],
+      "madeBy": "CasaCraft by Pepperfry",
+      "offer_price": "26,999",
+      "actual_price": "43,999",
+      "total_savings": "17,000 (39% Off)",
+      "price": 26999,
+      "category": "sofas",
+      "seater": 2
+    },
+    {
+      "id": 6,
+      "name": "Regina 3 Seater Sofa in Rust Colour",
+      "img": [
+        "https://ii1.pepperfry.com/media/catalog/product/a/d/494x544/adyna-3-seater-sofa-in-grey-colour-by-mintwud-adyna-3-seater-sofa-in-grey-colour-by-mintwud-gljgu2.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-rust-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-rust-colour---c-dywmoe.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-rust-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-rust-colour---c-clloab.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/r/e/800x400/regina-3-seater-sofa-in-rust-colour---casacraft-by-pepperfry-regina-3-seater-sofa-in-rust-colour---c-x4hznb.jpg"
+      ],
+      "madeBy": "CasaCraft by Pepperfry",
+      "offer_price": "53,999",
+      "actual_price": "85,999",
+      "total_savings": "32,000 (37% Off)",
+      "price": 53999,
+      "category": "sofas",
+      "seater": 3
+    },
+    {
+      "id": 7,
+      "name": "Kaylee 2 Seater Sofa in Velvet Blue Colour",
+      "img": [
+        "https://ii1.pepperfry.com/media/catalog/product/f/i/494x544/fidel-2-seater-sofa-in-camel-yellow-colour-colour---casacraft-by-pepperfry-fidel-2-seater-sofa-in-ca-je7z0l.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/k/a/800x400/kaylee-2-seater-sofa-in-velvet-blue-colour---casacraft-by-pepperfry-kaylee-2-seater-sofa-in-velvet-b-pyjbkb.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/k/a/800x400/kaylee-2-seater-sofa-in-velvet-blue-colour---casacraft-by-pepperfry-kaylee-2-seater-sofa-in-velvet-b-umxirt.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/k/a/800x400/kaylee-2-seater-sofa-in-velvet-blue-colour---casacraft-by-pepperfry-kaylee-2-seater-sofa-in-velvet-b-fyrnew.jpg"
+      ],
+      "madeBy": "CasaCraft",
+      "offer_price": "47,999",
+      "actual_price": "85,999",
+      "total_savings": "38,000 (44% Off)",
+      "price": 47999,
+      "category": "sofas",
+      "seater": 2
+    },
 
-    
+    {
+      "id": 11,
+      "name": "Orpha Metal Settee In Grey Colour",
+      "img": [
+        "https://ii1.pepperfry.com/media/catalog/product/o/r/1100x1210/orpha-metal-settee-in-grey-colour---bohemiana-by-pepperfry-orpha-metal-settee-in-grey-colour---bohem-mejtxw.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/o/r/1100x1210/orpha-metal-settee-in-grey-colour---bohemiana-by-pepperfry-orpha-metal-settee-in-grey-colour---bohem-ffjad4.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/o/r/1100x1210/orpha-metal-settee-in-grey-colour---bohemiana-by-pepperfry-orpha-metal-settee-in-grey-colour---bohem-0ddwlc.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/o/r/1100x1210/orpha-metal-settee-in-grey-colour---bohemiana-by-pepperfry-orpha-metal-settee-in-grey-colour---bohem-tqsrtm.jpg"
+      ],
+      "madeBy": "Bohemiana by Pepperfry",
+      "offer_price": "14,999",
+      "actual_price": "32,999",
+      "total_savings": "18,000 (55% Off)",
+      "price": 14999,
+      "category": "Settee",
+      "seater": 0
+    },
+    {
+      "id": 12,
+      "name": "Rovel Solid Wood Settee In Brown Colour",
+      "img": [
+        "https://ii1.pepperfry.com/media/catalog/product/r/o/1100x1210/rovel-solid-wood-settee-in-brown-colour---bohemiana-by-pepperfry-rovel-solid-wood-settee-in-brown-co-stqtzh.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/r/o/1100x1210/rovel-solid-wood-settee-in-brown-colour---bohemiana-by-pepperfry-rovel-solid-wood-settee-in-brown-co-xyq6bc.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/r/o/1100x1210/rovel-solid-wood-settee-in-brown-colour---bohemiana-by-pepperfry-rovel-solid-wood-settee-in-brown-co-ehdmlo.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/r/o/1100x1210/rovel-solid-wood-settee-in-brown-colour---bohemiana-by-pepperfry-rovel-solid-wood-settee-in-brown-co-cmwopi.jpg"
+      ],
+      "madeBy": "Bohemiana by Pepperfry",
+      "offer_price": "17,499",
+      "actual_price": "34,999",
+      "total_savings": "17,500 (50% Off)",
+      "price": 17499,
+      "category": "Settee",
+      "seater": 0
+    },
+    {
+      "id": 13,
+      "name": "Ubu Solid Wood Settee in Blue Distress Finish",
+      "img": [
+        "https://ii1.pepperfry.com/media/catalog/product/u/b/1100x1210/ubu-solid-wood-settee-in-blue-distress-finish-by-bohemiana-ubu-solid-wood-settee-in-blue-distress-fi-fxjkco.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/u/b/1100x1210/ubu-solid-wood-settee-in-blue-distress-finish-by-bohemiana-ubu-solid-wood-settee-in-blue-distress-fi-cprb7k.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/a/h/1100x1210/ahafo-settee-in-blue-distress-finish-by-bohemiana-ahafo-settee-in-blue-distress-finish-by-bohemiana-bp8iys.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/a/h/1100x1210/ahafo-settee-in-blue-distress-finish-by-bohemiana-ahafo-settee-in-blue-distress-finish-by-bohemiana-ydmbqk.jpg"
+      ],
+      "madeBy": "Bohemiana by Pepperfry",
+      "offer_price": "29,999",
+      "actual_price": "34,999 ",
+      "total_savings": "5,000 (14% Off)",
+      "price": 29999,
+      "category": "Settee",
+      "seater": 0
+    },
+    {
+      "id": 14,
+      "name": "Utah Settee in Colonial Maple Finish",
+      "img": [
+        "https://ii1.pepperfry.com/media/catalog/product/u/t/1100x1210/utah-bench-in-colonial-maple-color-finish-by-stories-utah-bench-in-colonial-maple-color-finish-by-st-ktahjs.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/u/t/1100x1210/utah-bench-in-colonial-maple-color-finish-by-stories-utah-bench-in-colonial-maple-color-finish-by-st-cdeuwr.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/u/t/1100x1210/utah-bench-in-colonial-maple-color-finish-by-stories-utah-bench-in-colonial-maple-color-finish-by-st-e9ik5y.jpg",
+        "https://ii1.pepperfry.com/media/catalog/product/u/t/1100x1210/utah-bench-in-colonial-maple-color-finish-by-stories-utah-bench-in-colonial-maple-color-finish-by-st-zwut7n.jpg"
+      ],
+      "madeBy": "by Stories",
+      "offer_price": "23,599",
+      "actual_price": "33,040",
+      "total_savings": " 9,441 (29% Off)",
+      "price": 23599,
+      "seater": 0
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-       
- 
+  ]
+}
